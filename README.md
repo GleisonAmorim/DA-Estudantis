@@ -2,6 +2,9 @@
 
 Bem-vindo ao repositório da minha análise de habilidades estudantis para o ano de 2023. Neste projeto, explorei dados educacionais utilizando o Power BI para fornecer insights valiosos sobre o desempenho dos alunos em matemática, escrita e velocidade de leitura.
 
+![image](https://github.com/GleisonAmorim/DA-Estudantis/assets/54336609/493b55cd-17d0-41d9-abce-7ca9999ca1a6)
+
+
 ## Objetivo do Projeto
 O objetivo principal desta análise é compreender as nuances nas habilidades estudantis, identificando padrões e pontos de atenção que podem impactar a qualidade da educação. Utilizei visualizações dinâmicas e filtros no Power BI para oferecer uma análise abrangente e interativa.
 
