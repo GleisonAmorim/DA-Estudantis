@@ -15,11 +15,6 @@ O objetivo principal desta análise é compreender as nuances nas habilidades es
 - Filtros dinâmicos para análise por sexo, participação em cursos de preparação e padrões de alimentação.
 - Dashboard informativo sobre média geral por grau de escolaridade.
 
-## Como Utilizar Este Repositório
-1. Clone o repositório: `git clone https://github.com/seuusuario/nome-do-repositorio.git`
-2. Abra o arquivo `Analise_Habilidades_Estudantis.pbix` no Power BI para explorar visualizações interativas.
-3. Consulte o código-fonte para a manipulação e transformação dos dados no arquivo `Transformacao_Dados.py`.
-
 Sinta-se à vontade para explorar, contribuir e compartilhar suas próprias descobertas! Se tiver alguma pergunta ou sugestão, fique à vontade para abrir uma issue.
 
 **Vamos juntos impulsionar a excelência na educação através da análise de dados! 🚀**
